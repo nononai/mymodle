@@ -1,4 +1,4 @@
-module mymodel
+module github.com/nononai/mymodle
 
 go 1.20
 
